@@ -52,7 +52,7 @@ const PartnersCarousel = () => {
             }
           }
           .animate-scroll {
-            animation: scroll 40s linear infinite;
+            animation: scroll 5s linear infinite;
           }
           .animate-scroll:hover {
             animation-play-state: paused;
